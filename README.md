@@ -27,4 +27,4 @@ Please ensure that you comply with the terms of use and guidelines provided by t
 
 This script is provided under the MIT License.
 
-Support me via [🛢️Buy Me some AVGAS](https://www.buymeacoffee.com/Williamntw) å!
+Support me via [🛢️Buy Me some AVGAS](https://www.buymeacoffee.com/Williamntw) !

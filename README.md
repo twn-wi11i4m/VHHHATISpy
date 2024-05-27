@@ -18,6 +18,32 @@ This Python script allows you to fetch the Automatic Terminal Information Servic
    ```bash
    pip install requests beautifulsoup4
 
+## Supplementary
+(This section is from AIP Hong Kong, updated at 2024-05-27)
+### Aeronautical Broadcasting Service
+3.3.1 b) VHF Automatic Terminal Information Service (ATIS) broadcasts information on H24 basis:
+
+|                        |            |
+|------------------------|------------|
+| For arriving aircraft  | 128.20 MHZ |
+| For departing aircraft | 127.05 MHZ |
+
+### ATS Data Link Service
+3.4.1 a) Data Link Automatic Terminal Information Service (D-ATIS);
+
+|                        |            |
+|------------------------|------------|
+| For arriving aircraft  | code VHHHA |
+| For departing aircraft | code VHHHD |
+
+### Other Information Services
+3.5.1 Automatic Terminal Information Service (ATIS) broadcast are available H24 via the following telephone hotlines:
+
+|                |                |
+|----------------|----------------|
+| Arrival ATIS   | +852 3141 2820 |
+| Departure ATIS | +852 3141 2705 |
+
 
 ## Disclaimer
 
